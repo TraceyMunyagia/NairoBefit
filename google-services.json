@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696920872080",
+    "project_id": "fitnesstracker-1b188",
+    "storage_bucket": "fitnesstracker-1b188.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696920872080:android:65fdddb8b201303944f415",
+        "android_client_info": {
+          "package_name": "com.kyalo.fitnesstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-doHpzz6TWTdDU57jLKFHY0Qg0sfXZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
